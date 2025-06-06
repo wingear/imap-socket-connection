@@ -2,10 +2,10 @@
 
 Lightweight PHP library for working with IMAP servers via socket connection
 
-[![Latest Stable Version](https://poser.pugx.org/your-username/imap-socket-connection/v/stable)](https://packagist.org/packages/your-username/imap-socket-connection)
-[![Total Downloads](https://poser.pugx.org/your-username/imap-socket-connection/downloads)](https://packagist.org/packages/your-username/imap-socket-connection)
-[![License](https://poser.pugx.org/your-username/imap-socket-connection/license)](https://packagist.org/packages/your-username/imap-socket-connection)
-[![PHP Version Require](https://poser.pugx.org/your-username/imap-socket-connection/require/php)](https://packagist.org/packages/your-username/imap-socket-connection)
+[![Latest Stable Version](https://poser.pugx.org/wingear/imap-socket-connection/v/stable)](https://packagist.org/packages/wingear/imap-socket-connection)
+[![Total Downloads](https://poser.pugx.org/wingear/imap-socket-connection/downloads)](https://packagist.org/packages/wingear/imap-socket-connection)
+[![License](https://poser.pugx.org/wingear/imap-socket-connection/license)](https://packagist.org/packages/wingear/imap-socket-connection)
+[![PHP Version Require](https://poser.pugx.org/wingear/imap-socket-connection/require/php)](https://packagist.org/packages/wingear/imap-socket-connection)
 
 ## Description
 
