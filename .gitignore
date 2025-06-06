@@ -1,0 +1,44 @@
+# Dependencies
+/vendor/
+
+# Composer
+composer.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Tests
+/tests/coverage/
+phpunit.xml
+
+# Build
+/build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Cache
+*.cache
+
+# PHPStorm
+.phpstorm.meta.php
+
+# Attachments directory (for examples)
+/examples/attachments/
+/examples/downloads/
