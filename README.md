@@ -24,7 +24,7 @@ This library provides a simple and efficient way to connect to IMAP servers and 
 
 ## Requirements
 
-- PHP 7.4 or higher
+- PHP 7.1 or higher
 - Extension `sockets` (usually enabled by default)
 
 ## Installation
