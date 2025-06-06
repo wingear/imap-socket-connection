@@ -230,7 +230,7 @@ $socket = stream_socket_client('ssl://imap.gmail.com:993', $errno, $errstr, 30, 
 
 ## License
 
-This project is distributed under the MIT license. Details are in the [LICENSE](LICENSE) file.
+This project is distributed under the MIT license. Details are in the [LICENSE](LICENSE.md) file.
 
 ## Support
 
